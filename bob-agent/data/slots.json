@@ -1,0 +1,6 @@
+{
+  "free": ["Mon 10:00", "Mon 14:00", "Tue 11:00", "Wed 09:00", "Wed 16:00"],
+  "booked": [
+    {"slot": "Tue 09:00", "customer": "Lucas", "service": "gear tuning"}
+  ]
+}

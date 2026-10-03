@@ -1,0 +1,7 @@
+[
+  {"order_id": "R-1041", "customer": "Amina", "bike": "City bike, blue", "problem": "Rear brake squeaks", "status": "ready for pickup", "ready_by": "today", "quote_usd": 25.00},
+  {"order_id": "R-1042", "customer": "Tomas", "bike": "Mountain bike, black", "problem": "Gears slip on steep hills", "status": "waiting for parts", "ready_by": "Thursday", "quote_usd": 60.00},
+  {"order_id": "R-1043", "customer": "Priya", "bike": "Folding bike, red", "problem": "Flat front tire", "status": "in progress", "ready_by": "tomorrow", "quote_usd": 15.00},
+  {"order_id": "R-1044", "customer": "Kenji", "bike": "Road bike, white", "problem": "Full service before a race", "status": "received", "ready_by": "Friday", "quote_usd": 80.00},
+  {"order_id": "R-1045", "customer": "Sofia", "bike": "Child's bike, green", "problem": "Chain keeps falling off", "status": "ready for pickup", "ready_by": "today", "quote_usd": 20.00}
+]
